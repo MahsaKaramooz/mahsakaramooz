@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **mahsa.karamooz94@gmail.com**
 
+- ⚡ Fun fact: <less code less bug 🐛 />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
