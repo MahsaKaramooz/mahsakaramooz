@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, Next.js, JavaScript**
 
-- 📫 How to reach me: **mahsa.ka@gmail.com**
+- 📫 How to reach me: **mahsa.karamooz@gmail.com**
 
 - 😄 Pronouns: **She/Her**
 
