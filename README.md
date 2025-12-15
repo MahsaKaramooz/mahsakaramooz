@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahsa</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Front-End Developer focused on building modern, responsive web applications</h3>
 
 
 - 🔭 I’m currently working on **E-Commerce Web Application**
