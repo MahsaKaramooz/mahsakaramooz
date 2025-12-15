@@ -2,17 +2,17 @@
 <h3 align="center">A passionate Front-End Developer focused on building modern, responsive web applications</h3>
 
 
-- 🔭 I’m currently working on **E-Commerce Web Application**
+- 🔭 I’m currently working on an **E-Commerce Web Application**
 
-- 🌱 I’m currently learning **Figma, Jestjs**
+- 🌱 I’m currently learning **Figma** and **Jest**
 
-- 💬 Ask me about **React , Next , Javascript , ...**
+- 💬 Ask me about **React, Next.js, JavaScript**
 
-- 📫 How to reach me **mahsa.karamooz94@gmail.com**
+- 📫 How to reach me: **mahsa.ka@gmail.com**
 
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: **She/Her**
 
-- ⚡ Fun fact: <less code less bug 🐛 />
+- ⚡ Fun fact: `<less code, fewer bugs 🐛 />`
 
 
 <h3 align="left">Languages and Tools:</h3>
