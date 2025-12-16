@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Mahsa</h1>
 
-<p align="center"> <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=B822B5E6&random=true&width=250&lines=%7BFront+End+Developer+%3A)" alt="Typing SVG" /></a></p>
+<p align="center"> <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=B822B5E6&random=true&width=280&lines=%7BFront+End+Developer+%3A)" alt="Typing SVG" /></a></p>
 <h3 align="center">A passionate Front-End Developer focused on building modern, responsive web applications</h3>
 
 
