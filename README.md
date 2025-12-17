@@ -2,8 +2,9 @@
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=BF39DBE6&background=FFFFFF00&center=true&width=344&lines=Front+End+Developer+%3A)" alt="Typing SVG" /></p>
 <h3 align="center">A passionate Front-End Developer focused on building modern, responsive web applications</h3>
-## 👨‍💻 About Me
 
+
+  ## 👨‍💻 About Me
 - 🔭 I’m currently working on an **E-Commerce Web Application**
 
 - 🌱 I’m currently learning **Figma** and **Jest**
