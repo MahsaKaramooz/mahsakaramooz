@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **React, Next.js, JavaScript**
 
-- 📫 How to reach me: **mahsa.karamooz@gmail.com**
-
 - 😄 Pronouns: **She/Her**
 
 - ⚡ Fun fact: `<less code, fewer bugs 🐛 />`
